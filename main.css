@@ -1,3 +1,7 @@
+body {
+    background-color: #F5F6F7;
+}
+
 img {
     width: 200px;
     height: 40px;
@@ -41,9 +45,6 @@ img {
     text-align: center;
     line-height: 40px;
     color: white;
-}
-body {
-    background-color: #F5F6F7;
 }
 
 .logo {
