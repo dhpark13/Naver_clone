@@ -1,7 +1,6 @@
 img {
     width: 200px;
     height: 40px;
-    display: block; margin: 0 auto;
 }
 .blank {
     margin-top: 50px;
@@ -45,4 +44,10 @@ img {
 }
 body {
     background-color: #F5F6F7;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
 }
